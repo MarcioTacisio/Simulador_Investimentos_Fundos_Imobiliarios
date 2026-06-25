@@ -1,25 +1,46 @@
-# Simulador de Investimentos em Fundos Imobiliários
+Simulador de Investimentos em Fundos Imobiliários
 
-Simulador básico para análise e planejamento de investimentos em Fundos Imobiliários (FIIs).
+Descrição
 
-## Funcionalidades
+Este projeto foi desenvolvido como parte de um desafio de Excel com o objetivo de criar uma planilha para simulação de investimentos em fundos imobiliários.
 
-- Cálculo de rendimentos projetados
-- Análise de dividendos
-- Simulação de aportes periódicos
-- Comparação de cenários de investimento
+A proposta da planilha é permitir que o usuário informe alguns dados básicos do investimento e visualize de forma automática os principais resultados, como valor investido, patrimônio acumulado e estimativa de dividendos mensais.
 
-## Como Utilizar
+Objetivo
 
-1. Baixe o arquivo `simulador_dio_basico.xlsx`
-2. Abra no Microsoft Excel ou compatível
-3. Preencha os campos solicitados
-4. Analise os resultados gerados
+Criar uma ferramenta simples em Excel para ajudar na simulação de investimentos em FIIs, aplicando fórmulas e cálculos financeiros básicos dentro de uma planilha.
 
-## Requisitos
+O que foi desenvolvido
 
-- Microsoft Excel 2016 ou superior (ou equivalente)
+A planilha foi montada para simular um investimento em fundos imobiliários com base em informações como:
 
-## Licença
+* valor do aporte mensal
+* prazo do investimento
+* taxa de rendimento mensal
+* valor total investido ao longo do tempo
+* patrimônio acumulado
+* estimativa de dividendos mensais
 
-Este projeto é para fins educacionais.
+Funcionalidades da planilha
+
+A planilha permite:
+
+* preencher os dados de entrada do investimento
+* calcular automaticamente os valores principais da simulação
+* visualizar o total investido
+* visualizar o patrimônio acumulado ao final do período
+* visualizar uma estimativa de dividendos mensais com base no patrimônio construído
+
+Aprendizados aplicados
+
+Durante o desenvolvimento deste arquivo, foram aplicados conceitos básicos de Excel, como:
+
+* organização de dados em planilha
+* uso de fórmulas para cálculos automáticos
+* estruturação de uma ferramenta de simulação
+* apresentação das informações de forma simples e objetiva
+
+
+Considerações finais
+
+O objetivo deste projeto foi praticar o uso do Excel na criação de uma solução simples para simulação de investimentos, transformando cálculos manuais em uma planilha automatizada e mais fácil de usar.
